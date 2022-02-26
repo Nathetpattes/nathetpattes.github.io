@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pattes
-permalink: /pattes/
+title: Personnes Agées
+permalink: /personnesagees/
 ---
 
 About content goes here.

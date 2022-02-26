@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Nath
-permalink: /nath/
+title: Enfants
+permalink: /enfant/
 ---
 
 About content goes here.

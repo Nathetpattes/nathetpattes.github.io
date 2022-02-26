@@ -2,11 +2,14 @@
 <html>
   {% include head.html %}
 
-  <body>
-    {% include header.html %}
-    <main>
-      <article>{{ content }}</article>
-      {% include footer.html %}
+  <body class="flex flex-col justify-between min-h-screen">
+    <header>{% include header.html %}</header>
+    
+    <main class="flex-grow flex items-center justify-center">
+      {{ content }}
     </main>
+
+    <footer>{% include footer.html %}</footer>
+
   </body>
 </html>

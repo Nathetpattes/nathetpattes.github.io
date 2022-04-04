@@ -10,3 +10,16 @@ To run locally (only option atm):
 * run `bundle exec jekyll serve` to start the site locally
 * browser to http://localhost:4000
 
+
+To do:
+
+* add logos for contact and footer (mail, phone, facebook)
+* style contact page
+* add "service proposés" tab and content from panflet
+* add content for "personnes agées" and "enfants/adultes" tabs
+* get images for home page
+* add blog tab and possible to post images in it
+* (before last task) touch up styling
+* (last task) review styling
+
+

@@ -2,19 +2,24 @@
 layout: infos_pratiques
 title: Infos Pratiques
 permalink: /infopratiques/
+personnes_collectifs: 3 à 9
 tarifs_collectifs: 90
+duree_collectifs: 1h30
+
+personnes_individuelles: 1 à 2
 tarifs_individuelles: 45
+duree_individuelles: 1h
+
 ---
 
-**Séances itinérantes en structures ou au domicile des bénéficiaires.** 
+À **domicile** ou en **structures**.
 \
-Je propose des **ateliers sur mesure** facilités par l’animal qui peuvent être  axés sur **l’éducatif**, **l’animation**, **la thérapie**, ou **le loisir**.
+Axés sur **l’éducatif**, **l’animation**, **la thérapie**, ou **le loisir**.
 \
-Les ateliers , organisés en **groupe** ou en **individuel**, s’adressent aux **enfants**, **jeunes adultes**, **adultes** et **séniors** en situation de **fragilité**,  **maladie**, ou **handicaps** (mental, physique et/ou psychique).
+En **groupe** ou en **individuel**, s’adressent aux **enfants**, **jeunes adultes**, **adultes** et **séniors** en situation de **fragilité**,  **maladie**, ou **handicaps**.
 \
-Les **périodes d’intervention** sont modulables : **ponctuelles** (découverte, prévention, occasions festives) ou **régulières** (animation, thérapie).
+Intervention **ponctuelles** (découverte, prévention, occasions festives) ou **régulières** (animation, thérapie).
 \
- Nous nous déplaçons dans le **78** (Yvelines) et **92** (Hauts de Seine),
-à **30km max** de **Guyancourt (78280)**                                                     
+Disonible dans le **78** (Yvelines) et **92** (Hauts de Seine), à **30km max** de **Guyancourt (78280)**.                                                  
  
 

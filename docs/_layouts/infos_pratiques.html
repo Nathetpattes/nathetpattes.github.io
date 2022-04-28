@@ -1,0 +1,24 @@
+---
+layout: page
+---
+{{content}}
+<div class="border border-4 border-teal-300 p-4 m-4">
+    <h2 class="text-2xl font-bold text-center font-serif border-b-2 border-sky-700">Les Tarifs</h2>
+
+    <ul class="my-2">
+        <li>Séances collectives:
+            <ul class="list-disc list-inside">
+                <li>3 à 9 personnes</li>
+                <li>Durée 1h30</li>
+                <li>{{page.tarifs_collectifs}} €</li>
+            </ul>
+        </li>
+        <li>Séances individuelles:
+            <ul class="list-disc list-inside">
+                <li>1 à 2 personnes</li>
+                <li>Durée 1h</li>
+                <li>{{page.tarifs_individuelles}} €</li>
+            </ul>
+        </li>
+    </ul>
+</div>

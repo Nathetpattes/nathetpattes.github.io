@@ -2,9 +2,9 @@
 layout: infos_pratiques
 title: Infos Pratiques
 permalink: /infopratiques/
-personnes_collectifs: 3 à 9
+personnes_collectifs: 3 à 8
 tarifs_collectifs: 90
-duree_collectifs: 1h30
+duree_collectifs: 1h
 
 personnes_individuelles: 1 à 2
 tarifs_individuelles: 45
@@ -20,6 +20,4 @@ En **groupe** ou en **individuel**, s’adressent aux **enfants**, **jeunes adul
 \
 Intervention **ponctuelles** (découverte, prévention, occasions festives) ou **régulières** (animation, thérapie).
 \
-Disonible dans le **78** (Yvelines) et **92** (Hauts de Seine), à **30km max** de **Guyancourt (78280)**.                                                  
- 
-
+Nous nous déplaçons dans les **Dpts 78**, **91** et **92** à **30km max** de **Guyancourt (78280)** ou **plus loin** avec **un supplément** kilométrique. 

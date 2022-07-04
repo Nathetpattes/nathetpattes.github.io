@@ -3,7 +3,7 @@ layout: page
 title: Mon Parcours
 permalink: /monparcours/
 ---
-**Educatrice Spécialisée** depuis 15 ans, j’ai éprouvé le besoin d’évoluer dans l’accompagnement. J’ai choisi l’apport d’un chien médiateur pour enrichir mes interventions éducatives, sociales et médico-sociales.\
+**Educatrice Spécialisée** de formation, j’ai éprouvé le besoin d’évoluer dans l’accompagnement. J’ai choisi l’apport d’un chien médiateur pour enrichir mes interventions éducatives, sociales et médico-sociales.\
 Formée en médiation animale par l’AZCO en 2020, j’ai constaté lors des interventions combien  cette médiation singulière peut motiver les personnes fragiles, en difficultés ou en situation de handicap. Elle stimule les bénéficiaires en les rendant acteurs de leur projet, tout en partageant des moments de bien-être avec un animal.\
 Titulaire de l’ACACED Chien en juin 2021, je dispose aujourd’hui de techniques d’ateliers assistés par l’animal entièrement adaptées à l’animal et aux publics concernés. Les activités répondent aux exigences posées par les différents types de déficiences rencontrées.
 

@@ -3,13 +3,12 @@ layout: infos_pratiques
 title: Infos Pratiques
 permalink: /infopratiques/
 personnes_collectifs: 3 à 8
-tarifs_collectifs: 90
+tarifs_collectifs: 75
 duree_collectifs: 1h
 
 personnes_individuelles: 1 à 2
 tarifs_individuelles: 45
-duree_individuelles: 1h
-
+duree_individuelles: 0h45
 ---
 
 À **domicile** ou en **structures**.
